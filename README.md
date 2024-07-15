@@ -3,7 +3,7 @@ A simple CLI tool that artificially increases your ping systemwide.
 
 ## Installation
 ```bash
-git clone https://github.com/Siriusmart/ping-spoofer && cd ping-spoofer && sh ./install.sh && cd ..
+git clone https://github.com/Peter-Luo-Yu/ping-spoofer.git && cd ping-spoofer && sh ./install.sh && cd ..
 ```
 
 ## Commands:

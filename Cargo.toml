@@ -13,5 +13,5 @@ repository = "https://github.com/Siriusmart/ping-spoofer"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-nix = "0.24"
+nix = "0.26.2"
 home = "0.5"

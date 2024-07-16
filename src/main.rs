@@ -1,4 +1,4 @@
-use nix::unistd::{Uid, setuid};
+use nix::sys::uid::{Uid, setuid};
 use std::{
     env,
     process::{self, Command},
